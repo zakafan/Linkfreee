@@ -1,0 +1,52 @@
+{
+  "name": "Zakaria EL Yousfi",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Software Engineering Student at ENSAF.Football lover .",
+  "avatar": "https://github.com/zakafan.png",
+  "tags": ["nextJS", "HTML/CSS", "Java", "reactJS", "Spring Boot"],
+  "testimonials": [
+    {
+      "username": "zakafan",
+      "title": "Motivated",
+      "url": "google.com",
+      "description": "He is always motivated to waork and brings positive vibes to the table"
+    }
+  ],
+  "links": [
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/zakaria.elyousfi88/",
+      "icon": "FaInstagram"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://www.twitter.com",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/zakaria-el-yousfi-8067b2213/",
+      "icon": "FaLinkedin"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started Trading",
+      "date": "November 2022",
+      "icon": "FaDollarSign",
+      "color": "grey",
+      "description": "Started learning how to trade financial markets",
+      "url": "https://www.tradingview.com/chart/2Efpp8UN/"
+    },
+
+    {
+      "title": "First Open source interaction",
+      "date": "January 2023",
+      "icon": "FaGithub",
+      "color": "green",
+      "description": "working on my first GitHub open source project ",
+      "url": "https://github.com/zakafan"
+    }
+  ]
+}
